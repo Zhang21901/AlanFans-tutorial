@@ -6,6 +6,9 @@ RSSHub, and a Feishu custom bot. No always-on server is required.
 For a complete Chinese walkthrough, see
 [不买服务器：用 GitHub Actions 监控 X 动态并推送到飞书](docs/x-to-feishu-github-actions-guide.zh-CN.md).
 
+An X Article draft is also available at
+[不用服务器，15 分钟监控 X 动态并自动推送到飞书](docs/x-article.zh-CN.md).
+
 Before the first run, replace both `YOUR_X_USERNAME` values in
 `.github/workflows/x-monitor.yml` with the account name to monitor, without
 the `@` symbol.
