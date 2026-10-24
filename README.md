@@ -9,6 +9,9 @@ For a complete Chinese walkthrough, see
 An X Article draft is also available at
 [不用服务器，15 分钟监控 X 动态并自动推送到飞书](docs/x-article.zh-CN.md).
 
+For direct paste into the X Article editor, use the Markdown-free
+[plain-text version](docs/x-article-plain.zh-CN.txt).
+
 Before the first run, replace both `YOUR_X_USERNAME` values in
 `.github/workflows/x-monitor.yml` with the account name to monitor, without
 the `@` symbol.
